@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi there, I'm [JiuYou2020!](jiuyou2020.cn) 👋
 
 <!--
-**JiuYou2020/JiuYou2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JiuYou2020&hide=prs&count_private=true&show_icons=true&theme=material-palenight" alt="JiuYou2020 github stats" width="480" height="170" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JiuYou2020&layout=compact&theme=material-palenight" alt="Top Langs" height="168" />
+</a>
