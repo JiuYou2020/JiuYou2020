@@ -1,4 +1,4 @@
-### Hi there, I'm [JiuYou2020!](jiuyou2020.cn) 👋
+### Hi there, I'm [JiuYou2020!](https://www.cnblogs.com/jiuyou2020) 👋
 
 <!--
 Here are some ideas to get you started:
